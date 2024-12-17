@@ -26,7 +26,7 @@ This script facilitates the withdrawal of tokens from major centralized exchange
 1. **Run the Script**: Use the following command to execute the script:
 
     ```bash
-    python withdraw_tokens.py
+    python main.py
     ```
 
 2. **Arguments**: Depending on your implementation, you may be able to provide arguments such as token symbols, withdrawal amounts, and target addresses.
